@@ -1,7 +1,9 @@
 # Influencer Followers Overlap
 
 [![tests](https://github.com/lhrubisko/influencer-overlap/actions/workflows/tests.yml/badge.svg)](https://github.com/lhrubisko/influencer-overlap/actions/workflows/tests.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![python](https://img.shields.io/badge/python-3.12%20%7C%203.13%20%7C%203.14-blue)](https://www.python.org/)
+[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)](https://streamlit.io/)
 
 **Measure how much the follower audiences of Instagram influencers overlap — and how much unique
 audience each one really adds.**
