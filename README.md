@@ -1,5 +1,8 @@
 # Influencer Followers Overlap
 
+[![tests](https://github.com/lhrubisko/influencer-overlap/actions/workflows/tests.yml/badge.svg)](https://github.com/lhrubisko/influencer-overlap/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 **Measure how much the follower audiences of Instagram influencers overlap — and how much unique
 audience each one really adds.**
 
@@ -59,8 +62,8 @@ and how many *new* people a candidate would add to your current lineup.
 **Requirements:** Python 3.12+ (tested with 3.14), Linux, macOS or Windows (WSL), and Git.
 
 ```bash
-git clone https://github.com/<your-user>/influencer-followers-overlap.git
-cd influencer-followers-overlap
+git clone https://github.com/lhrubisko/influencer-overlap.git
+cd influencer-overlap
 
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
