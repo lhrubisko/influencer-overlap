@@ -1,0 +1,18 @@
+# Python / IDE
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+
+# Secrets & local config – never commit
+.env
+.secrets/
+*session*.json
+
+# Local data & generated exports
+data/
+exports/
+*.sqlite3
+*.sqlite3-*
+*.csv
